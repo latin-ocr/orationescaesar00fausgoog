@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orationescaesar00fausgoog/orationescaesar00fausgoog_0120.png"; bbox 0 0 2727 3901; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2636 366 2695 763">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2636 366 2695 763">
+     <span class='ocr_line' id='line_1_1' title="bbox 2636 366 2695 763; baseline 0 3138"><span class='ocrx_word' id='word_1_1' title='bbox 2636 366 2695 763; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1297 1801 1537 1882">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1297 1801 1537 1882">
+     <span class='ocr_line' id='line_1_2' title="bbox 1297 1801 1537 1882; baseline -0.004 -17"><span class='ocrx_word' id='word_1_2' title='bbox 1297 1801 1537 1882; x_wconf 68' lang='lat' dir='ltr'>Oxfotb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 761 1938 2656 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 761 1938 2656 1985">
+     <span class='ocr_line' id='line_1_3' title="bbox 761 1938 2656 1985; baseline -0.004 -7"><span class='ocrx_word' id='word_1_3' title='bbox 761 1940 1066 1980; x_wconf 75' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_4' title='bbox 1108 1941 1194 1978; x_wconf 78' lang='grc' dir='ltr'>ΔΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1235 1941 1371 1978; x_wconf 73' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1414 1938 1838 1977; x_wconf 82' lang='lat' dir='ltr'>CLARENDON</span> <span class='ocrx_word' id='word_1_7' title='bbox 1882 1938 2082 1974; x_wconf 88' lang='lat' dir='ltr'><strong>PRESS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2650 1954 2656 1985; x_wconf 40' lang='grc' dir='ltr'>ᾗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 882 2041 1963 2075">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 882 2041 1963 2075">
+     <span class='ocr_line' id='line_1_4' title="bbox 882 2041 1963 2075; baseline -0.004 -1"><span class='ocrx_word' id='word_1_9' title='bbox 882 2044 935 2074; x_wconf 77' lang='lat' dir='ltr'>m!</span> <span class='ocrx_word' id='word_1_10' title='bbox 960 2045 1129 2074; x_wconf 66' lang='lat' dir='ltr'>nomen</span> <span class='ocrx_word' id='word_1_11' title='bbox 1156 2044 1282 2075; x_wconf 69' lang='lat' dir='ltr'>RART.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1306 2043 1490 2073; x_wconf 65' lang='lat' dir='ltr'><strong>ramum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1514 2043 1570 2073; x_wconf 83' lang='grc' dir='ltr'>ΤΟ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1594 2043 1683 2072; x_wconf 73' lang='lat' dir='ltr'>&#39;nm</span> <span class='ocrx_word' id='word_1_15' title='bbox 1708 2041 1963 2071; x_wconf 65' lang='lat' dir='ltr'><strong>umvssasrrv</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
